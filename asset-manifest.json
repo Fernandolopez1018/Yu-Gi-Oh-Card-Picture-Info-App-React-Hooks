@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://fernandolopez1018.github.io/csb-fjfcqq/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://fernandolopez1018.github.io/csb-fjfcqq/static/js/main.91531e7f.chunk.js",
+    "main.js.map": "https://fernandolopez1018.github.io/csb-fjfcqq/static/js/main.91531e7f.chunk.js.map",
+    "runtime-main.js": "https://fernandolopez1018.github.io/csb-fjfcqq/static/js/runtime-main.e78168e4.js",
+    "runtime-main.js.map": "https://fernandolopez1018.github.io/csb-fjfcqq/static/js/runtime-main.e78168e4.js.map",
+    "static/js/2.836ab423.chunk.js": "https://fernandolopez1018.github.io/csb-fjfcqq/static/js/2.836ab423.chunk.js",
+    "static/js/2.836ab423.chunk.js.map": "https://fernandolopez1018.github.io/csb-fjfcqq/static/js/2.836ab423.chunk.js.map",
+    "index.html": "https://fernandolopez1018.github.io/csb-fjfcqq/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://fernandolopez1018.github.io/csb-fjfcqq/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.836ab423.chunk.js.LICENSE.txt": "https://fernandolopez1018.github.io/csb-fjfcqq/static/js/2.836ab423.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e78168e4.js",
+    "static/js/2.836ab423.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.91531e7f.chunk.js"
+  ]
+}
